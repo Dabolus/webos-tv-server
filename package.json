@@ -1,0 +1,16 @@
+{
+  "name": "webos-tv-server",
+  "version": "0.0.1",
+  "description": "A simple server that interacts with your webOS TV in your local network.",
+  "repository": "https://github.com/Dabolus/webos-tv-server.git",
+  "author": "Giorgio Garasto <giorgio@garasto.it>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.7.0",
+    "webos-tv": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.48"
+  }
+}
